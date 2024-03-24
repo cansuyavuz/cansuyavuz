@@ -15,10 +15,6 @@
 ###
 
 <p align="left">✨ Creating bugs since 2022<br>📚 I'm currently studying for DevOps<br>🎯 Goals: Graduating in summer of 2024</p>
-- 🔭 I’m currently working on DevOps
-- 🌱 I’m currently learning French
-- 💬 Ask me about my favorite dishes
-- 📫 How to reach me: yavuzcan@students.zhaw.ch
 
 ###
 
